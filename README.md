@@ -1,3 +1,3 @@
-# Noom
+# WS-practice
 
-Zoom Clone using WebRTC and Websockets.
+nodemon, babel, banillajs, ws based chat server/client
